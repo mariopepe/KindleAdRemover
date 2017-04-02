@@ -12,12 +12,17 @@ It has been tested with a lot of Paperwhites, but it should as well work with ol
 
 ## Usage
 
-1. Download the apllication from github.
-![Github Download](media/?.png)
-2. Connect your device and be sure it is detected from your Mac.
-<img src="media/KindleConnected.png" width="300">
-3. Launch the application and follow the onscreen instruction.
-4. Done!
+1 - Download the app from github.
+
+<img src="media/DownloadAPP.png" width="500">
+
+2 - Connect your device and be sure it is detected from your Mac.
+
+<img src="media/KindleConnected.png" width="260">
+
+3 - Launch the application and follow the on-screen instruction.
+
+4 - Done!
 
 ## Shell users
 
