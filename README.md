@@ -12,7 +12,7 @@ It has been tested with a lot of Paperwhites, but it should as well work with ol
 
 ## Usage
 
-1 - Download the app from github.
+1 - Download the app from github or from here [Download](https://github.com/scugn1zz0/KindleAdRemover/raw/master/KindleAdRemover%20APP.dmg).
 
 <img src="media/DownloadAPP.png" width="500">
 
