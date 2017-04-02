@@ -1,4 +1,4 @@
-##### ![KindleAdRemover Icon](media/IconRGB.png)
+<img src="media/IconRGB.png" width="500">
 
 KindleAdRemover
 ======================
@@ -15,7 +15,7 @@ It has been tested with a lot of Paperwhites, but it should as well work with ol
 1. Download the apllication from github.
 ![Github Download](media/?.png)
 2. Connect your device and be sure it is detected from your Mac.
-![Device detected](media/KindleConnected.png)
+<img src="media/KindleConnected.png" width="300">
 3. Launch the application and follow the onscreen instruction.
 4. Done!
 
