@@ -1,4 +1,4 @@
-##### ![KindleAdRemover Icon](media/IconRGB.png)
+##### ![KindleAdRemover Icon](media/IconRGB8x8.png)
 
 KindleAdRemover
 ======================
