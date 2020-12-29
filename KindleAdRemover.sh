@@ -40,7 +40,7 @@ then
 
 	touch /Volumes/Kindle/system/.assets
 	if [ $? -eq 0 ]; then
-		ech89
+		echo
 		echo "done"
 	else
     	echo "not..working"
