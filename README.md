@@ -1,4 +1,4 @@
-<img src="media/IconRGB.png" width="500">
+<img src="media/IconRGB.png" width="200">
 
 KindleAdRemover
 ======================
@@ -26,6 +26,8 @@ It has been tested with a lot of Paperwhites, but it should as well work with ol
 
 ## Shell users
 
-Obviously you can launch KindleAdRemover.sh from bash, but you don’t really need me for this…## Author
+Obviously you can launch KindleAdRemover.sh from bash, but you don’t really need me for this…
+
+## Author
 
 * **scugn1zz0** -
