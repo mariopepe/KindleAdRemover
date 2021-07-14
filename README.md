@@ -36,8 +36,11 @@ You may need to enable event logging under `Microsoft -> Windows -> DriveFramewo
 ![image](https://user-images.githubusercontent.com/16165938/125626022-39d77d0c-f7ba-421f-8912-fe044d6f45b2.png)
 
 Set the `Action` as `Start a program`. Then:
+
 - Program/Script: `powershell.exe`
-- Add arguments (optional) `-Exec bypass -NoP "C:/Path/To/Script/KindleAdsRemoverSched.ps1"
+- Add arguments (optional) `-Exec bypass -NoP "C:/Path/To/Script/KindleAdsRemoverSched.ps1"` 
+
+Being sure to set the path to the correct location.
 
 ![image](https://user-images.githubusercontent.com/16165938/125626233-d4594611-9705-4bfe-98ab-57cf494f5487.png)
 
