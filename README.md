@@ -28,6 +28,26 @@ It has been tested with a lot of Paperwhites, but it should as well work with ol
 
 Obviously you can launch KindleAdRemover.sh from bash, but you don’t really need me for this…
 
+## Usage (Windows)
+The recommended usage is to create a scheduled task to run the script each time your machine detects the Kindle has been connected.
+
+You may need to enable event logging under `Microsoft -> Windows -> DriveFrameworks-UserMode -> Operational` then schedule a task to run on the `2003` event.
+
+![image](https://user-images.githubusercontent.com/16165938/125626022-39d77d0c-f7ba-421f-8912-fe044d6f45b2.png)
+
+Set the `Action` as `Start a program`. Then:
+
+- Program/Script: `powershell.exe`
+- Add arguments (optional) `-Exec bypass -NoP "C:/Path/To/Script/KindleAdsRemoverSched.ps1"` 
+
+Being sure to set the path to the correct location.
+
+![image](https://user-images.githubusercontent.com/16165938/125626233-d4594611-9705-4bfe-98ab-57cf494f5487.png)
+
+
+
+
+
 ## Author
 
 * **scugn1zz0** -
