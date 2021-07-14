@@ -10,7 +10,7 @@ You saved 10 bucks when you bought your preferred eBook reader, but now you are 
 
 It has been tested with a lot of Paperwhites, but it should as well work with older devices and even newer like Voyage and Oasis.
 
-## Usage
+## Usage (macos)
 
 1 - Download the app from github or from here [Download](https://github.com/scugn1zz0/KindleAdRemover/raw/master/KindleAdRemover%20APP.dmg).
 
